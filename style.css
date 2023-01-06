@@ -7,6 +7,20 @@ body {
   text-align: center;
 }
 
+#navbar {
+  height: 100%;
+  width: 30%;
+  overflow: hidden;
+}
+
+#site-map a {
+  
+}
+
+.container {
+  height: 100%;
+}
+
 h1, h2 {
   font-family: 'Cormorant SC', serif;
   color: #FFEF82;
